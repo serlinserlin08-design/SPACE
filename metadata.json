@@ -1,0 +1,7 @@
+{
+  "name": "COSMOAI",
+  "description": "Explore, discover, and visualize the universe with COSMOAI — featuring interactive 3D celestial models, physics-grounded AI space visualizations, and real-time astrophysics telemetry.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
